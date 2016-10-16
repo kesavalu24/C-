@@ -7,7 +7,7 @@ if(a>0)
 {
 printf("a is positive");
 }
-else if(a=0)
+else if(a==0)
 {
 printf("a =0");
 }
